@@ -153,7 +153,9 @@ section{
 /*Contact Styles*/
 .contact{
     display: flex;
-    background-color: #cfb39e;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
 }
 .contact input[type="text"], input[type="email"],textarea{
     margin-bottom: 24px;
